@@ -1,4 +1,4 @@
-#LetsChat
+##LetsChat
 
 ### Overview
 - Trying out Socket.io with React Mobx and Express integration
